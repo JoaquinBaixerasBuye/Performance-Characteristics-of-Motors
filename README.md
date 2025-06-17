@@ -4,7 +4,7 @@ Joaquin Baixeras Buye, James Gallagher, David A. Leigh
 
 ## Interactive Tool for Motor KPIs
 
-Code of interactive KPI tool is available in file KPItool.ipynb or hosted in Google Colab environment here: 
+Code of interactive KPI tool is available in file Interactive_figure.ipynb or hosted in Google Colab environment here: 
 
 https://colab.research.google.com/drive/1UWPAcBU4Qmdj4ttl0X2tdhNZlhglWAOC
 
@@ -12,4 +12,4 @@ To use, click on link then Runtime -> Run all. This should produce an interactiv
 
 ## Figures in Main Text
 
-Code used to produce the figures in the main text is available in file Figures.ipynb
+Code used to produce the figures in the main text is available in file Performance_characteristics_figures.ipynb
