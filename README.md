@@ -8,6 +8,8 @@ Code of interactive KPI tool is available in file KPItool.ipynb or hosted in Goo
 
 https://colab.research.google.com/drive/1UWPAcBU4Qmdj4ttl0X2tdhNZlhglWAOC
 
+To use, click on link then Runtime -> Run all. 
+
 ## Figures in Main Text
 
 Code used to produce the figures in the main text is available in file Figures.ipynb
